@@ -1,0 +1,7 @@
+C:\Users\prashant.naiker\source\repos\MicroServicesProject\LoginAPis\obj\Debug\net5.0\LoginAPis.csproj.AssemblyReference.cache
+C:\Users\prashant.naiker\source\repos\MicroServicesProject\LoginAPis\obj\Debug\net5.0\LoginAPis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prashant.naiker\source\repos\MicroServicesProject\LoginAPis\obj\Debug\net5.0\LoginAPis.AssemblyInfoInputs.cache
+C:\Users\prashant.naiker\source\repos\MicroServicesProject\LoginAPis\obj\Debug\net5.0\LoginAPis.AssemblyInfo.cs
+C:\Users\prashant.naiker\source\repos\MicroServicesProject\LoginAPis\obj\Debug\net5.0\LoginAPis.csproj.CoreCompileInputs.cache
+C:\Users\prashant.naiker\source\repos\MicroServicesProject\LoginAPis\obj\Debug\net5.0\LoginAPis.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\prashant.naiker\source\repos\MicroServicesProject\LoginAPis\obj\Debug\net5.0\LoginAPis.MvcApplicationPartsAssemblyInfo.cache
